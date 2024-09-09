@@ -1,0 +1,16 @@
+
+what is backend developer?❓🤔
+   - a backend developer can do 2 things.That is create a server and implement database.👌
+
+why is backend?❓🤔
+   - to make websites more usable and purposeful for audience to make website dynamic.🔥
+
+why not frontend alone?❓🤔
+   - with frontend websites are static and they are of not much use.👍
+
+what do we need?❓🤔
+   - nodejs, expressjs, mongodb,mongoose
+
+what should we make to hit big companies❓🤔
+   - do some full functional web projects.
+
