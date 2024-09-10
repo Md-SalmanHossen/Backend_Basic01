@@ -37,7 +37,6 @@ one file can export only one.if we want multiple that time it how?
      benefit of nodemon after run one time we do not need run it again and again.
 
 05. middleware:
-   - this is a function like a it after request and before arrive it in route which process is called middleware.
-   - Middleware functions are functions that have access to the request object (req), the response object (res), 
+   - this is a function like a it after request and before arrive it in route which process is called middleware.👍
+   - Middleware functions are functions that have access to the request object (req), the response object (res), ✅
      and the next function in the application’s request-response cycle. 
-   - 
