@@ -13,6 +13,6 @@
      and the next function in the application’s request-response cycle.
    - it have 3 parameter : request,response and next.🔥
 
-         - request is act as information which send into server.in one word users data which send to server.
-         - from server which answer/data send is response. which send the user
-         - next() push for next route
+      - request is act as information which send into server.in one word users data which send to server.
+      - from server which answer/data send is response. which send the user
+      - next() push for next route
