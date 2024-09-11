@@ -11,6 +11,8 @@ app.get('/profile',function(req,res){
    res.send('this is profile');
 })
 
+app.set('view engine','ejs');
+app.use(express.static('./public'));
 
 // app.get('/profile/hossen',function(req,res){
 //    res.send('this is hossen')

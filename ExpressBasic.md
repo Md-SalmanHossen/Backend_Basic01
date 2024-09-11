@@ -39,3 +39,12 @@
    - there are some type of template engine : pug,handlebars, ejs, jade.but ejs looks like html code.🔥
    - in template engine there will be two thing views and another is data
    - to data convert use <%= data_name %>
+
+## Static file : 
+   - to do images,stylesheet,frontend js setup is static file.
+   - to setup static file :
+      1. create a folder called public 
+      2. create 3 folder inside it images, stylesheets,js
+      3. configure the express static in script.js file
+      4. understand the path 
+
