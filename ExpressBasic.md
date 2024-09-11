@@ -48,3 +48,7 @@
       3. configure the express static in script.js file
       4. understand the path 
 
+
+
+## Error Handling : 
+   - 
