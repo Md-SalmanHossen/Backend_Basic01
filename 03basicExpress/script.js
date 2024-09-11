@@ -11,6 +11,9 @@ app.get('/profile',function(req,res){
    res.send('this is profile');
 })
 
+app.get('/about',function(req,res){
+   res.send('this is ')
+})
 app.set('view engine','ejs');
 app.use(express.static('./public'));
 
